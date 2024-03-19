@@ -1,0 +1,31 @@
+.green{
+    background-color: green;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+}
+
+.white{
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+}
+
+.red{
+    background-color: red;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+}
+
+.image{
+    position:absolute;
+    top: 135px;
+    left: 310px;
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    bottom:20px;
+}
+
